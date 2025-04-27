@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Algorithms" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Bash_scripting" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CodeRun" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Codewars" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Data_Structures_and_algorithms" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Leetcode" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/NGINX" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Netology_cours" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Python_generation" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Python_generation_2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Yandex_Alg" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/xexlet_cours" vcs="Git" />
+  </component>
+</project>
